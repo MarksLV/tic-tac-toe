@@ -1,0 +1,36 @@
+INFO:root:Started at 2025-01-04 15:28:18
+INFO:root:Reading config.ini file...
+INFO:root:Database 'tic_tac_toe' already exists.
+INFO:root:Table 'players' created successfully or already exists.
+INFO:root:Executing SQL file: C:\Users\marks\Desktop\Project\integration\tic_tac_toe_players.sql
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 3 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:Query affected 0 rows.
+INFO:root:SQL file 'C:\Users\marks\Desktop\Project\integration\tic_tac_toe_players.sql' executed successfully.
+INFO:root:Integration process complete.

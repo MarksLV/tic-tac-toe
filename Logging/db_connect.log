@@ -1,0 +1,12 @@
+INFO:root:Started at 2025-01-04 15:28:22
+INFO:root:Reading config.ini file...
+INFO:root:Database connection successful.
+INFO:root:Database connection successful.
+INFO:root:Started at 2025-01-04 15:29:42
+INFO:root:Reading config.ini file...
+ERROR:root:Error: Could not connect to the database. Details: 1045 (28000): Access denied for user 'roott'@'localhost' (using password: YES)
+ERROR:root:Database connection failed.
+INFO:root:Started at 2025-01-04 15:29:49
+INFO:root:Reading config.ini file...
+INFO:root:Database connection successful.
+INFO:root:Database connection successful.
