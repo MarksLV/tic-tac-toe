@@ -2,7 +2,6 @@
 
 ## Headers
 This project is a simple console tic tac toe game, which was made using python 3.12.X and MySQL Workbench 8.0 CE. This project is easy to use, with no code changed nececary to connect with your database.
-You may check latest python version by clicking [here](https://www.python.org/downloads/).
 
 ## Installation Process
 
